@@ -1,0 +1,73 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.5 built on Thursday Nov 28, 2019 at 11:28:53 PST
+---- Dump Properties ---
+Dump file: ajcore.20231222.184400.173.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.specification.version=19
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+java.class.path=C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework\target\test-classes;C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework\target\classes;C:\Users\kubar\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\kubar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\kubar\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\kubar\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\kubar\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\kubar\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\kubar\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\kubar\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\kubar\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\kubar\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\kubar\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\kubar\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\kubar\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\kubar\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\kubar\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\kubar\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\kubar\.m2\repository\org\aeonbits\owner\owner\1.0.12\owner-1.0.12.jar;C:\Users\kubar\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\kubar\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\kubar\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\kubar\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\kubar\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\kubar\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-testng\2.13.5\allure-testng-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-java-commons\2.13.5\allure-java-commons-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-model\2.13.5\allure-model-2.13.5.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\kubar\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\kubar\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-rest-assured\2.13.5\allure-rest-assured-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-attachments\2.13.5\allure-attachments-2.13.5.jar;C:\Users\kubar\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\kubar\.m2\repository\org\slf4j\slf4j-simple\1.7.30\slf4j-simple-1.7.30.jar;C:\Users\kubar\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;
+java.vm.vendor=Oracle Corporation
+sun.arch.data.model=64
+user.variant=
+java.vendor.url=https://java.oracle.com/
+user.timezone=Europe/Warsaw
+java.vm.specification.version=19
+os.name=Windows 10
+sun.java.launcher=SUN_STANDARD
+user.country=GB
+sun.boot.library.path=C:\Program Files\Java\jdk-19\bin
+sun.java.command=C:\Users\kubar\AppData\Local\Temp\surefire16704909889601075315\surefirebooter4901020181883484312.jar C:\Users\kubar\AppData\Local\Temp\surefire16704909889601075315 2023-12-22T18-43-54_516-jvmRun1 surefire2086000623126259678tmp surefire_08731646795653606957tmp
+jdk.debug=release
+surefire.test.class.path=C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework\target\test-classes;C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework\target\classes;C:\Users\kubar\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\kubar\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\kubar\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\kubar\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\kubar\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\kubar\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\kubar\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\kubar\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\kubar\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\kubar\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\kubar\.m2\repository\org\testng\testng\7.1.0\testng-7.1.0.jar;C:\Users\kubar\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\kubar\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0-no_aop.jar;C:\Users\kubar\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\kubar\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar;C:\Users\kubar\.m2\repository\com\google\guava\guava\19.0\guava-19.0.jar;C:\Users\kubar\.m2\repository\org\yaml\snakeyaml\1.21\snakeyaml-1.21.jar;C:\Users\kubar\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\kubar\.m2\repository\org\aeonbits\owner\owner\1.0.12\owner-1.0.12.jar;C:\Users\kubar\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\kubar\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\kubar\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\kubar\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\kubar\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\kubar\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-testng\2.13.5\allure-testng-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-java-commons\2.13.5\allure-java-commons-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-model\2.13.5\allure-model-2.13.5.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\kubar\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\kubar\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar;C:\Users\kubar\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-rest-assured\2.13.5\allure-rest-assured-2.13.5.jar;C:\Users\kubar\.m2\repository\io\qameta\allure\allure-attachments\2.13.5\allure-attachments-2.13.5.jar;C:\Users\kubar\.m2\repository\org\freemarker\freemarker\2.3.28\freemarker-2.3.28.jar;C:\Users\kubar\.m2\repository\org\slf4j\slf4j-simple\1.7.30\slf4j-simple-1.7.30.jar;C:\Users\kubar\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;
+sun.cpu.endian=little
+allure.results.directory=C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework/target/allure-results
+user.home=C:\Users\kubar
+user.language=en
+java.specification.vendor=Oracle Corporation
+java.version.date=2022-09-20
+java.home=C:\Program Files\Java\jdk-19
+file.separator=\
+basedir=C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework
+java.vm.compressedOopsMode=Zero based
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+surefire.real.class.path=C:\Users\kubar\AppData\Local\Temp\surefire16704909889601075315\surefirebooter4901020181883484312.jar
+user.script=
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=19+36-2238
+user.name=kubar
+stdout.encoding=Cp1252
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=UTF-8
+java.vm.name=OpenJDK 64-Bit Server VM
+localRepository=C:\Users\kubar\.m2\repository
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=C:\Users\kubar\AppData\Local\Temp\
+java.version=19
+user.dir=C:\Users\kubar\OneDrive\Pulpit\rest-assured-framework
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+native.encoding=Cp1252
+java.library.path=C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\kubar\OneDrive\Pulpit\apache-maven-3.8.1\bin;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\kubar\AppData\Local\Programs\Python\Python39;C:\Users\kubar\AppData\Local\Programs\Python\Python39\Scripts;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\kubar\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\kubar\AppData\Local\Programs\Python\Python39\;C:\Users\kubar\AppData\Local\Microsoft\WindowsApps;C:\Users\kubar\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Users\kubar\AppData\Local\Programs\Microsoft VS Code\bin;.
+java.vm.info=mixed mode, sharing
+stderr.encoding=Cp1252
+java.vendor=Oracle Corporation
+java.vm.version=19+36-2238
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=63.0
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+Empty
