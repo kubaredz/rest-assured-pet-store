@@ -12,3 +12,6 @@ buildNumber.properties
 *.class
 *.log
 *.ctxt
+.idea
+ajcore.20231222.184400.173.txt
+/.allure
